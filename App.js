@@ -5,7 +5,7 @@ import QuizList from "./QuizList";
 import QuizTaking from "./QuizTaking";
 import QuizResults from "./QuizResults";
 import Auth from "./Auth";
-import "./quiz_app_styles.css";
+import "./styles.css";
 
 function App() {
   return (
